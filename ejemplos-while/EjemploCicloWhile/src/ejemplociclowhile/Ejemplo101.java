@@ -20,7 +20,7 @@ public class Ejemplo101 {
         // TODO code application logic here
         Scanner entrada = new Scanner(System.in);
         entrada.useLocale(Locale.US);
-        int limite_tabla = 12;
+        int limite_tabla;
         int contador = 1;
         int operacion;
         int tabla;
